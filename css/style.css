@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.items {
+    text-align: center;
+    width: 90%;
+}
+
+.img_index {
+    width: 70%;
+}
